@@ -1,0 +1,107 @@
+@font-face{
+	font-family:myfont;
+	src:url(myfont.ttf);
+}
+.block{
+	height: 700px;
+background: 
+}
+.logo{
+margin-left: 500px;
+ba
+
+}
+.content{
+padding-top: 50px;
+padding-bottom: 50px;
+
+
+}
+.flex{
+	display: flex;
+}
+.mini_content{
+	
+	height: 400px;
+	width: 600px;
+	margin-left: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.margin_top{
+	margin-top: 50px;
+}
+.content2{
+	height: 400px;
+	
+}
+.mini_content2{
+	height: 360px;
+	width: 350px;
+	
+	margin-left: 20px;
+	margin-top: 30px;
+	transition: 1.5s
+}
+p{
+	font-family: myfont;
+	font-size: 20px;
+	transition: 1.5s
+}
+.content img{
+height:400px;
+width:600px;
+}
+.hover{
+	background-image: url(img3.jpg);
+	background-size: 100% 100%;
+transition: 2s
+}
+.hover:hover{
+	transform: scale(1.05);
+	opacity: 1;
+	background-image: url(img5.jpg);
+}
+.hover2{
+	background-image: url(img4.jpg);
+	background-size: 100% 100%;
+	transition: 2s
+}
+.hover2:hover{
+	transform: scale(1.05);
+	opacity: 1;
+	background-image: url(img7.jpg);
+}
+h2{
+	text-align: center;
+	transition: 1s
+}
+.mini_content2 img{
+ height: 360px;
+ width: 350px;
+
+}
+.mini_content2:hover{
+	transform: scale(1.1);
+}
+
+h2:hover{
+	transform: scale(1.1);
+}
+p:hover{
+	transform: scale(1.05);
+}
+.info{
+	margin-left: 540px
+}
+h3{
+	transition: 1s;
+
+}
+h3:hover{
+	transform: scale(1.05);
+}
+.a1{
+	
